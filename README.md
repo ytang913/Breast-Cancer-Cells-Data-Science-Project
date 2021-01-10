@@ -8,4 +8,4 @@ This project is a data science project centered around data science techniques
 # K Means Cluster Errors Results
 ![](KMeans.jpg)
 # Decision Tree Classification Results
-![](DecisionTree.jpg)
+![](decisionTree.jpg)
