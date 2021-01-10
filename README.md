@@ -6,5 +6,6 @@ This project is a data science project centered around data science techniques
 # XGBoost 
 ![](XGBoost.jpg)
 # K Means Cluster Errors Results
-
+![](KMeans.jpg)
 # Decision Tree Classification Results
+![](DecisionTree.jpg)
