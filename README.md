@@ -16,7 +16,6 @@ cell types
 The Data Science techniques I used was Logistic Regression, XGBoost, K Means, and Decision Tree Classification. After implementing each of these techniques I found that 
 logistic regression had the highest accuracy, with 93.55%.
 
-By implementing the foll
 # Logistic Regression Confusion Matrix Results
 ![](LogisticRegressionConfuse.jpg)
 # XGBoost 
