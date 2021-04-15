@@ -17,10 +17,10 @@ The Data Science techniques I used was Logistic Regression, XGBoost, K Means, an
 logistic regression had the highest accuracy, with 93.55%.
 
 # Logistic Regression Confusion Matrix Results
-![](LogisticRegressionConfuse.jpg)
+![](ImagesDs/LogisticRegressionConfuse.jpg)
 # XGBoost 
-![](XGBoost.jpg)
+![](ImagesDs/XGBoost.jpg)
 # K Means Cluster Errors Results
-![](KMeans.jpg)
+![](ImagesDs/KMeans.jpg)
 # Decision Tree Classification Results
-![](decisionTree.jpg)
+![](ImagesDs/decisionTree.jpg)
